@@ -1,6 +1,6 @@
 # VIM customization
 
-Original file - <https://www.linode.com/docs/tools-reference/tools/introduction-to-vim-customization/>
+[Original info can be found on linode](https://www.linode.com/docs/tools-reference/tools/introduction-to-vim-customization/)
 
 ## Customize the Global vimrc File
 
